@@ -1,0 +1,19 @@
+# IntelliJ / IDEA
+.idea/
+*.iml
+
+# Build output
+out/
+target/
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# Documents (якщо не хочеш додавати PDF)
+*.pdf

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="385af7a1-89d7-4034-820d-aa1a39a9d9a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/coursework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursework/coursework.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3B2D1ljgOCWlSYUsv5s9u77m3bf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.RealEstateApp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dzaik/OneDrive/Рабочий стол/курс 2, семестр 1/ООП Java/курсова"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="385af7a1-89d7-4034-820d-aa1a39a9d9a7" name="Changes" comment="" />
+      <created>1773678058937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773678058937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/coursework/src/RealEstateApp.java</url>
+          <line>354</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
